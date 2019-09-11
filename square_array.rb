@@ -1,4 +1,4 @@
-require "pry"
+
 
 def square_array(array)
   new_array = []
@@ -8,5 +8,5 @@ def square_array(array)
   end
   
   new_array
-  binding.pry
+
 end
